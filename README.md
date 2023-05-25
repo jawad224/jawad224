@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at jawadsheikh224@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1qQpqDautG67s3gsAiFwXXcN7dGcvBCup/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1rmEFFcKzhyStRtODXhlLy5cPkQzBotW4/view?usp=drivesdk) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/coading.gif" align="right"/>
 

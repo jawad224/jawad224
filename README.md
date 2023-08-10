@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at jawadsheikh224@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1qQpqDautG67s3gsAiFwXXcN7dGcvBCup/view) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1rmEFFcKzhyStRtODXhlLy5cPkQzBotW4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/coading.gif" align="right"/>
 
@@ -45,7 +45,7 @@
 ### 🤝🏻 &nbsp;Connect with 
 
 <p align="center">
-  <a href="https://jawadahmed.ml">
+  <a href="https://jawadahmed.vercel.app">
     <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=instagram&logoColor=fff"/>
   </a>
   <a href="mailto://jawadsheikh224@gmail.com">
@@ -57,7 +57,7 @@
   <a href="https://www.facebook.com/jawadahmed.jawadahmed.54">
     <img src="https://img.shields.io/badge/facebook-3b5998?&style=for-the-badge&logo=facebook&logoColor=fff"/>
   </a>
-  <a href="https://www.instagram.com/jawad_.sheikh/">
+  <a href="https://www.instagram.com/jawad._.sheikh/">
     <img src="https://img.shields.io/badge/instagram-bc2a8d?&style=for-the-badge&logo=instagram&logoColor=fff"/>
   </a>
   <a href="https://twitter.com/Jawad_Sheikh5">

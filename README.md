@@ -44,7 +44,7 @@
 ### 🤝🏻 &nbsp;Connect with 
 
 <p align="center">
-  <a href="https://jawadahmed.vercel.app">
+  <a href="https://jawadahmed.me">
     <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=instagram&logoColor=fff"/>
   </a>
   <a href="mailto://jawadsheikh224@gmail.com">

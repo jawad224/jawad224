@@ -44,9 +44,9 @@
 ### 🤝🏻 &nbsp;Connect with 
 
 <p align="center">
-  <a href="https://jawadahmed.me">
+  <!-- <a href="https://jawadahmed.me">
     <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=instagram&logoColor=fff"/>
-  </a>
+  </a> -->
   <a href="mailto://jawadsheikh224@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDAwIDQwMDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGcgaWQ9IlhNTElEXzFfIj4NCgk8cG9seWdvbiBpZD0iWE1MSURfODY5XyIgcG9pbnRzPSIwLDEyNy41IDAsMjc0LjIxOSAxMDQuOCwyMDYuMSAJIi8+DQoJPHBvbHlnb24gaWQ9IlhNTElEXzg3MF8iIHBvaW50cz0iNDAwLDI3NC4yMTkgNDAwLDEyNy41IDI5NS4yLDIwNi4xIAkiLz4NCgk8cG9seWdvbiBpZD0iWE1MSURfODcxXyIgcG9pbnRzPSIyMDAsMjc3LjUgMTMwLjM1NywyMjUuMjY4IDAsMzEwIDAsMzQwIDQwMCwzNDAgNDAwLDMxMCAyNjkuNjQzLDIyNS4yNjggCSIvPg0KCTxwb2x5Z29uIGlkPSJYTUxJRF84NzJfIiBwb2ludHM9IjAsOTAgMjAwLDI0MCA0MDAsOTAgNDAwLDYwIDAsNjAgCSIvPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPC9zdmc+DQo="/>
   </a>

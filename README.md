@@ -1,6 +1,4 @@
-<!-- ![Jawad Ahmed Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
-
-<img alt="Night Coding" src="./assets/hand_wave.gif" width='40' align="left"/><h2>Hey there! I'm Jawad</h2>
+<img alt="Night Coding" src="./assets/hand_wave.gif" width='40' align="left"/><h2>Hey there! I'm Jawad Ahmed</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jawad -->
 
@@ -47,20 +45,14 @@
 ### 🤝🏻 &nbsp;Connect with 
 
 <p align="center">
-  <!-- <a href="https://jawadahmed.me">
+  <a href="https://jawadahmed.vercel.app">
     <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=instagram&logoColor=fff"/>
-  </a> -->
+  </a>
   <a href="mailto://jawadsheikh224@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDAwIDQwMDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGcgaWQ9IlhNTElEXzFfIj4NCgk8cG9seWdvbiBpZD0iWE1MSURfODY5XyIgcG9pbnRzPSIwLDEyNy41IDAsMjc0LjIxOSAxMDQuOCwyMDYuMSAJIi8+DQoJPHBvbHlnb24gaWQ9IlhNTElEXzg3MF8iIHBvaW50cz0iNDAwLDI3NC4yMTkgNDAwLDEyNy41IDI5NS4yLDIwNi4xIAkiLz4NCgk8cG9seWdvbiBpZD0iWE1MSURfODcxXyIgcG9pbnRzPSIyMDAsMjc3LjUgMTMwLjM1NywyMjUuMjY4IDAsMzEwIDAsMzQwIDQwMCwzNDAgNDAwLDMxMCAyNjkuNjQzLDIyNS4yNjggCSIvPg0KCTxwb2x5Z29uIGlkPSJYTUxJRF84NzJfIiBwb2ludHM9IjAsOTAgMjAwLDI0MCA0MDAsOTAgNDAwLDYwIDAsNjAgCSIvPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPC9zdmc+DQo="/>
   </a>
   <a href="https://www.linkedin.com/in/jawad-ahmed-dev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"/>
-  </a>
-  <a href="https://www.facebook.com/jawadahmed.jawadahmed.54">
-    <img src="https://img.shields.io/badge/facebook-3b5998?&style=for-the-badge&logo=facebook&logoColor=fff"/>
-  </a>
-  <a href="https://www.instagram.com/jawad._.sheikh/">
-    <img src="https://img.shields.io/badge/instagram-bc2a8d?&style=for-the-badge&logo=instagram&logoColor=fff"/>
   </a>
   <a href="https://twitter.com/Jawad_Sheikh5">
     <img src="https://img.shields.io/badge/twitter-00acee?&style=for-the-badge&logo=twitter&logoColor=fff"/>

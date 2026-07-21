@@ -55,6 +55,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linked.in&logoColor=fff"/>
   </a>
   <a href="https://twitter.com/Jawad_Sheikh5">
-    <img src="https://img.shields.io/badge/twitter-00acee?&style=for-the-badge&logo=twitter&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/twitter-00acee?&style=for-the-badge&logo=x&logoColor=fff"/>
   </a>
 </p>

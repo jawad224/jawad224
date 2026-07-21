@@ -4,12 +4,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;Frontend Engineer & Team Lead with 5+ years of experience building scalable web and mobile applications.\
+🚀 &nbsp;I work primarily with Next.js, React.js, Vue.js, and TypeScript, and build cross-platform mobile apps with Capacitor.\
 🎓 &nbsp;I'm currently studying Business & Information Technology at the Virtual University of Pakistan.\
-✍️ &nbsp;In my free time, I pursue Graphic Design as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at jawadsheikh224@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1e1cdFEs4lYd6LljpxlUowFcGoaiPHmUa/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+💬 &nbsp;Feel free to reach out for collaboration, frontend work, or just an interesting tech discussion.\
+✉️ &nbsp;You can shoot me an email at jawadsheikh224@gmail.com — I'll try to respond as soon as I can.\
+📄 &nbsp;Have a look at my [Résumé](https://drive.google.com/file/d/1e1cdFEs4lYd6LljpxlUowFcGoaiPHmUa/view?usp=sharing) for more details. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/coading.gif" align="right"/>
 
